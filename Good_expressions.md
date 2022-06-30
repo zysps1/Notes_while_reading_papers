@@ -1,1 +1,2 @@
-In such a context: **在这种背景下**
+In such a context, ...: 在这种背景下
+By virtue of their high flexibilit, ...: 凭借、依靠...
